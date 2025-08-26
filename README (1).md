@@ -95,7 +95,6 @@ ipv6.testfacebook.com - IPv4: [] - IPv6: ['2a03:2880:f10d:83:face:b00c:0:25de'] 
 ```
 meu-projeto/
 │── scanner.py           # código principal
-│── requirements.txt     # dependências
 │── wordlists/           # wordlist(s) de subdomínios
 │   └── Filtro_wordlist.txt    
 │── README.md            # este arquivo
